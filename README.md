@@ -1,0 +1,1 @@
+Développement d'une plateforme web de vente de produits informatiques basée sur PHP, visant à simplifier la gestion des ventes, le suivi des stocks et le passage des commandes en ligne de manière efficace et centralisée.
